@@ -197,59 +197,6 @@ footer h3 {
 
 
 
-  
-  
-  
-
-
-/*propiedades nosotras*/
-/*.header {
-    grid-area: header;
-
-}
-
-.nosotras__texto {
-    width:50%;
-    text-align: justify;
-    line-height: 2.3rem;
-    padding:1rem;
-        
- }
-
- .nosotras__texto p{
-    margin-bottom:2rem;
-    text-align: right;
- }
-
-.nosotras__imagen {
-    width:50%;
-    padding:1rem;
-    text-align:center;
-       
-}
-
-.titulo{
-    grid-area:titulo;
-}
-
-.main__nosotras{
-    grid-area:main__nosotras;
-    width:70%;
-    height:fit-content;
-    display:flex;
-    flex-wrap:wrap;
-    justify-content: center;
-    align-items: center;
-    margin:auto;
-   
-}*/
-
-
-
-
-
-
-
 /*Inicio media query 800*******************************************************************************/
 @media screen and (max-width:800px) {
     html{
